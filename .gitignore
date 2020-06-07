@@ -1,0 +1,8 @@
+.vscode/
+
+scroll-and-sigil
+unit-tests
+
+*.o
+*.d
+*.pack
